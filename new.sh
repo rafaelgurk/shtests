@@ -1,4 +1,5 @@
 #!/bin/bash
 clear;
 echo "HELLO WORLD";
-exit; 
+echo "Nova modificação";
+exit;
